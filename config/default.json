@@ -1,0 +1,6 @@
+{
+    "app": {
+        "port": 33333,
+        "tmpFolder": "C:/tmp"
+    }
+}
